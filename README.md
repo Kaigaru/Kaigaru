@@ -13,16 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-my favorite emoji is: 
+ 
 <h3 align="center">✨What’s the first step in understanding recursion?</h3>
+
 <div align="center">
-  <img height="200" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFldW9obzVyejlvajhhMWNzbnh5OW9lYTN4dzFuMXRwdmlpMTc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" />
+  <img height="336" width="236"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ1enUyMGJ1MWJ0NmRwYWg4a255bmd1eDE2MHIyOGIxeXozcDJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JmPabUqU22FAbQYkzN/giphy.gif" />
 </div>
 
 <!--<h1 align="center">Heeeeey</h1>-->
 
 
-<h5 align="center">I like learning and systemizing my life</h5>
+<h5 align="center">I like systemizing my life</h5>
   
 - 🔭 I’m currently working on **my personal website**
 
