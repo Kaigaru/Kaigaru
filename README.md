@@ -7,7 +7,7 @@
 <h3>⚡What’s the first step in understanding recursion?</h3>
 
 <div align="center">
-  <img height="350"   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ1enUyMGJ1MWJ0NmRwYWg4a255bmd1eDE2MHIyOGIxeXozcDJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JmPabUqU22FAbQYkzN/giphy.gif"/>
+  <img height="330" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ1enUyMGJ1MWJ0NmRwYWg4a255bmd1eDE2MHIyOGIxeXozcDJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JmPabUqU22FAbQYkzN/giphy.gif"/>
 </div>
 
 <!--<h1 align="center">Heeeeey</h1>-->
