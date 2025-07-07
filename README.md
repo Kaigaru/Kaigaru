@@ -1,5 +1,5 @@
-##
-## one step is where you start your journey, right?
+## every journey begins with one step, right?
+
 
 
 <div align="center">
