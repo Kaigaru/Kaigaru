@@ -2,9 +2,11 @@
 ## one step is where you start your journey, right?
 
 
-<p style="white-space: nowrap; font-size: 10px;">
-  :blue_heart:💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙
-</p>
+<div align="center">
+  <span style="display: inline-block; white-space: nowrap; font-size: 14px;">
+    💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙
+  </span>
+</div>
 <h4>Here’s a joke I really liked:</h4>
 <h3>⚡What’s the first step in understanding recursion?</h3>
 
