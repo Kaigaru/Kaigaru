@@ -2,8 +2,10 @@
 ## one step is where you start your journey, right?
 
 
-:blue_heart: 💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙
-<h4>here is the joke that I liked:</h4>
+<p style="white-space: nowrap; font-size: 20px;">
+  💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙
+</p>
+<h4>Here’s a joke I really liked:</h4>
 <h3>⚡What’s the first step in understanding recursion?</h3>
 
 <div align="center">
@@ -11,7 +13,7 @@
 </div>
 
 <!--<h1 align="center">Heeeeey</h1>-->
-<h4>I really like systemizing my life</h4>
+<h4>I’m a big fan of organizing and systemizing my life</h4>
 
 ## 🧑‍💻 About Me
 
